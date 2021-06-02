@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+/commandlinelab
+/test_runner
+/.vscode
